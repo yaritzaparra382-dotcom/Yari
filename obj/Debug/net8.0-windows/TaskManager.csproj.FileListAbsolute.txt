@@ -1,0 +1,16 @@
+C:\Users\yarit\Downloads\TRABAJO\TaskManager\bin\Debug\net8.0-windows\TaskManager.exe
+C:\Users\yarit\Downloads\TRABAJO\TaskManager\bin\Debug\net8.0-windows\TaskManager.deps.json
+C:\Users\yarit\Downloads\TRABAJO\TaskManager\bin\Debug\net8.0-windows\TaskManager.runtimeconfig.json
+C:\Users\yarit\Downloads\TRABAJO\TaskManager\bin\Debug\net8.0-windows\TaskManager.dll
+C:\Users\yarit\Downloads\TRABAJO\TaskManager\bin\Debug\net8.0-windows\TaskManager.pdb
+C:\Users\yarit\Downloads\TRABAJO\TaskManager\obj\Debug\net8.0-windows\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarit\Downloads\TRABAJO\TaskManager\obj\Debug\net8.0-windows\TaskManager.AssemblyInfoInputs.cache
+C:\Users\yarit\Downloads\TRABAJO\TaskManager\obj\Debug\net8.0-windows\TaskManager.AssemblyInfo.cs
+C:\Users\yarit\Downloads\TRABAJO\TaskManager\obj\Debug\net8.0-windows\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\yarit\Downloads\TRABAJO\TaskManager\obj\Debug\net8.0-windows\TaskManager.dll
+C:\Users\yarit\Downloads\TRABAJO\TaskManager\obj\Debug\net8.0-windows\refint\TaskManager.dll
+C:\Users\yarit\Downloads\TRABAJO\TaskManager\obj\Debug\net8.0-windows\TaskManager.pdb
+C:\Users\yarit\Downloads\TRABAJO\TaskManager\obj\Debug\net8.0-windows\TaskManager.genruntimeconfig.cache
+C:\Users\yarit\Downloads\TRABAJO\TaskManager\obj\Debug\net8.0-windows\ref\TaskManager.dll
+C:\Users\yarit\Downloads\TRABAJO\TaskManager\obj\Debug\net8.0-windows\TaskManager.Forms.TaskForm.resources
+C:\Users\yarit\Downloads\TRABAJO\TaskManager\obj\Debug\net8.0-windows\TaskManager.csproj.GenerateResource.cache
