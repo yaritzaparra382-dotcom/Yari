@@ -123,6 +123,14 @@ ITaskRepository _repositorio;
 ```
 
 ---
+## Tecnologías
+
+* C#
+* .NET (WinForms)
+* JSON
+* PlantUML
+
+--
 
 ## ▶️ Cómo ejecutar
 
